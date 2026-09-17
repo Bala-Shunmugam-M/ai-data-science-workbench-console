@@ -11,8 +11,14 @@ The claim is deliberately not *"the model is accurate"*. It is:
 > structurally prevented, and the model's own bias is measured and published
 > beside its accuracy.
 
-**Source:** [Bala-Shunmugam-M/ai-data-science-workbench](https://github.com/Bala-Shunmugam-M/ai-data-science-workbench)
-· **Live report site:** [bala-shunmugam-m.github.io/ai-data-science-workbench](https://bala-shunmugam-m.github.io/ai-data-science-workbench/)
+**Source, live sites and everything else:**
+[LINKS.md](https://github.com/Bala-Shunmugam-M/ai-data-science-workbench/blob/main/LINKS.md)
+in the main repository — one canonical home for every URL, so none of them rot
+in four places at once.
+
+**The code lives in**
+[Bala-Shunmugam-M/ai-data-science-workbench](https://github.com/Bala-Shunmugam-M/ai-data-science-workbench).
+This repository is presentation only.
 
 ---
 
@@ -207,7 +213,9 @@ static     ALLOWED
 
 So the console runs locally. The generated **reports are published** to GitHub
 Pages, and a Streamlit interface over the same pipeline carries the live
-interactive demo. All three drive identical code.
+interactive demo — both linked from
+[LINKS.md](https://github.com/Bala-Shunmugam-M/ai-data-science-workbench/blob/main/LINKS.md).
+All three drive identical code.
 
 ---
 
