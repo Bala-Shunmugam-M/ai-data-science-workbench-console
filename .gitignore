@@ -1,2 +1,6 @@
 .DS_Store
 Thumbs.db
+
+# Local agent tooling state - not part of this repository.
+.claude-flow/
+.claude/
